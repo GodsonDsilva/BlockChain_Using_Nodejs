@@ -3,8 +3,11 @@
 Implement the core engine of the Blockchain in Javascript using Node.
 
 Need to Install :
-1) npm install js-sha256
+  > npm install js-sha256
 
 To Run:
-> node .\MakingBlockchain.js
+  > node MakingBlockchain.js
+  
+ 
+ Refferences : https://medium.com/digitalcrafts/programming-blockchain-in-javascript-8051cab272da
 
