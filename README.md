@@ -6,5 +6,5 @@ Need to Install :
 1) npm install js-sha256
 
 To Run:
-node .\MakingBlockchain.js
+> node .\MakingBlockchain.js
 
